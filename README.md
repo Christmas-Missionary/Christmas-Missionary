@@ -2,7 +2,7 @@
 A C and C++ developer who enjoys simplicity.  
 
 ## Current Project  
-[jumbo.c](https://github.com/Christmas-Missionary/jumbo.c) (Currently private) - Small "jumbo build" tool  
+[jumbo.c](https://github.com/Christmas-Missionary/jumbo.c) - Small "jumbo build" tool  
 
 ## Tools I use  
 Clang, gcc, clang-tidy & clang-format, cmake, SDL  
